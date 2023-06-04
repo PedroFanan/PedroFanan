@@ -42,3 +42,6 @@ I started programming as a Back-end developer.
     <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PedroFanan&layout=compact&langs_count=7&theme=dark"/>
   </td>
 </p> 
+<div>
+![Snake animation](https://github.com/PedroFanan/PedroFanan/blob/output/github-contribution-grid-snake.svg)
+<div>  
