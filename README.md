@@ -43,5 +43,5 @@ I started programming as a Back-end developer.
   </td>
 </p> 
 
-![snake gif](https://github.com/PedroFanan/PedroFanan/blob/output/github-contribution-grid-snake.svg)
+[snake gif](https://github.com/PedroFanan/PedroFanan/blob/output/github-contribution-grid-snake.svg)
 
